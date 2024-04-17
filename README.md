@@ -1,10 +1,7 @@
-# COWBOE
-## _Construction Of Windows Based on free Energy_
+# COW
 
-[![N|Solid](https://xiresearch.org/wp-content/uploads/2019/11/xiresearch-withcolor5-300x96.png)](https://xiresearch.org/)
-
-## What is cowboe
-COWBOE is a python 3 tool for parameter selection in Umbrella Sampling which is a free energy calculation method used in Molecular dynamics simulations.
+## What is cow
+COW is a python 3 tool for parameter selection in Umbrella Sampling which is a free energy calculation method used in Molecular dynamics simulations.
 
 ## Features
 - It is a Python 3 module hence easy to install.
